@@ -6,7 +6,7 @@ I'm a developer passionate about coding, building web applications, AI, and Data
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | JavaScript, Python, HTML5, CSS3 |
+| **Languages** | JavaScript, Python, HTML5, PHP, C, C++ |
 | **Frameworks** | React, Node.js |
 | **Tools** | Git |
 
