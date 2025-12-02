@@ -1,17 +1,14 @@
-# Hi , I'm BuaKot! 👋
+# I'm BuaKot
 
-I'm a developer passionate about coding and building web applications.
+## 🚀 About Me
 
-## 🛠️ Tech Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | JavaScript, Python, HTML5, CSS3 |
-| **Frameworks** | React, Node.js |
-| **Tools** | Git |
-
----
-
-## 📊 Stats
-Check out my repositories to see my latest work!
-[👉 View My Full Profile](https://github.com/BuaKot)
+```json
+{
+  "name": "BuaKot",
+  "role": "Developer",
+  "passion": [
+    "Web Development",
+    "AI & Data Analysis",
+    "Coding"
+  ]
+}
