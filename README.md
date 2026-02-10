@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src=""C:\Users\buako\OneDrive\รูปภาพ\monet.jpg"" />
+    <img src="monet.jpg" width="100%" />
   </p>
   <p><i>"to be love is to be seen"</i></p>
   <br><br>
