@@ -7,11 +7,9 @@
     <i>"to be loved is to be seen"</i>
   </p>
 
-  <p style="color: #d1d1d1; font-size: 1.2em; margin: 30px 0;">
+  <p style="color: #d1d1d1; font-size: 1.9em; margin: 30px 0;">
     ──── ୨ৎ ────
   </p>
-
-
   <div style="margin: 25px 0; color: #444444;">
     <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
       <i>"Is there anyplace you wanna go to? <br>
