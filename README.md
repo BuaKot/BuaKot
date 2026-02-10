@@ -1,25 +1,21 @@
 <div align="center">
-  <p align="center">
-    <img src="monet.jpg" width="45%" style="border-radius: 2px; filter: grayscale(5%); border: 0.5px solid #d1d1d1;" />
-  </p>
-  
-  <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
-    <i>"to be loved is to be seen"</i>
-  </p>
+  <p align="center">
+    <img src="monet.jpg" width="45%" style="border-radius: 2px; filter: grayscale(5%); border: 0.5px solid #d1d1d1;" />
+  </p>
+  
+  <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
+    <i>"to be loved is to be seen"</i>
+  </p>
 
-  <div style="margin: 25px 0; color: #444444;">
-    <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
-      <i>"Is there anyplace you wanna go to? <br> 
-      Wherever you are"</i>
-    </p>
-    <sub style="color: #888888; letter-spacing: 3px;"> JOURNEY MERCIES </sub>
-    <sub style="color: #bbbbbb;"> | </sub>
-    <sub style="color: #888888; letter-spacing: 3px;"> BY MARK </sub>
-  </div>
 
-  <p style="margin-top: 30px;">
-    <img src="https://img.shields.io/badge/fully_capable-Mark_Lee-white?style=flat-square&logo=applemusic&logoColor=black" />
-  </p>
-</div>
 
----
+  <div style="margin: 25px 0; color: #444444;">
+    <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
+      <i>"Is there anyplace you wanna go to? <br>
+       Wherever you are"</i>
+    </p>
+    <sub style="color: #888888; letter-spacing: 3px;"> Journey Mercies </sub>
+    <sub style="color: #888888; letter-spacing: 3px;"> by MARK </sub>
+  </div>
+
+ 
