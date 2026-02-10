@@ -8,18 +8,11 @@
   </p>
 
   <div style="margin: 25px 0; color: #444444;">
-    <p style="font-family: serif; font-size: 1.1em; font-style: italic;">
+    <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
       "Under the Raincouver, <br> 
       everything stays the same."
     </p>
-    <sub style="color: #888888; letter-spacing: 3px;">MARK LEE | VANCOUVER</sub>
+    <sub style="color: #888888; letter-spacing: 3px;"> Journey Mercies </sub>
   </div>
 
-  <p>
-    <img src="https://img.shields.io/badge/fully_capable-Mark_Lee-white?style=flat-square&logo=applemusic&logoColor=black" />
-    <img src="https://img.shields.io/badge/Vibe-Rainy_Day-lightgrey?style=flat-square&logo=icloud&logoColor=white" />
-  </p>
-
-  <br>
-  <img src="https://raw.githubusercontent.com/lucasalt/lucasalt/main/assets/rainbow-line.gif" width="60%" height="1px" />
-</div>
+ 
