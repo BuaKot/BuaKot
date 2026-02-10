@@ -7,9 +7,10 @@
     <i>"to be loved is to be seen"</i>
   </p>
 
-  <p style="margin-top: 15px;">
-    <img src="https://img.shields.io/badge/fully_capable-Mark_Lee-white?style=flat-square&logo=applemusic&logoColor=black" />
+  <p style="color: #d1d1d1; font-size: 1.2em; margin: 30px 0;">
+    ──── ୨ৎ ────
   </p>
+
 
   <div style="margin: 25px 0; color: #444444;">
     <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
