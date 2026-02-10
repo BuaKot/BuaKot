@@ -10,7 +10,7 @@
   <div style="margin: 25px 0; color: #444444;">
     <p style="color: #6a737d; letter-spacing: 2px; font-size: 0.9em;">
       <i>"Is there anyplace you wanna go to? <br>
-       Wherever you are"<i>
+       Wherever you are"</i>
     </p>
     <sub style="color: #888888; letter-spacing: 3px;"> Journey Mercies </sub>
     <sub style="color: #888888; letter-spacing: 3px;"> by MARK </sub>
